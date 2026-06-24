@@ -424,12 +424,6 @@ We welcome contributions in the following areas:
 
 ---
 
-## ⚖️ License
-
-This guide is provided for educational purposes. Please check the repository for specific licensing terms.
-
----
-
 ## 🙏 Acknowledgments
 
 This guide synthesizes knowledge from:
