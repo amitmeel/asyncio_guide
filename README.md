@@ -479,4 +479,20 @@ This guide synthesizes knowledge from:
 
 **Start your asyncio mastery journey today!** 🚀
 
+
+---
+
+## ⚖️ License
+
+This guide is licensed under the [MIT License](LICENSE).
+
+**MIT License Summary:**
+- ✅ Free to use, modify, and distribute
+- ✅ Can be used commercially
+- ✅ Must include original copyright notice
+- ✅ No warranty provided
+
+See the [LICENSE](LICENSE) file for full details.
+
+---
 Begin with [Chapter 1: Why Async Exists](part1-foundations/01-why-async.md)
