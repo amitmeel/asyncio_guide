@@ -135,9 +135,9 @@ asyncio.run(main())
 
 # Output:
 # Task 1: Waiting for lock
+# Task 1: Acquired lock
 # Task 2: Waiting for lock
 # Task 3: Waiting for lock
-# Task 1: Acquired lock
 # Task 1: Releasing lock
 # Task 1: Lock released
 # Task 2: Acquired lock
